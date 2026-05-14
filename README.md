@@ -1,16 +1,7 @@
-# Flipper Zero Orgasmotron Update
+# Flipper Zero Orgasmotron 2.0 Update
 
 ## What this is?
-This app is a proof-of-concept to show abilities of the vibration motor in the Flipper Zero device. I'm also using this <br>
-to learn how to code for Flipper Zero
-<br><br>
-By default the Flipper Zero firmware framework offers very limited use of the vibration motor<br>
-- Turn on<br>
-- Turn off<br>
-<br>
-The Goal of this application is to show further potential of the motor, by changing it's vibration pattern using pauses. <br>
-<br>
-
+This is an updated version of leedave's Orgasmotron. I changed some of the vibration patterns to make it more fun :3
 ## What this does
 The application allows you to play different vibration patterns. 
 
