@@ -4,7 +4,7 @@
 #include <gui/gui.h>
 #include <input/input.h>
 #include <notification/notification_messages.h>
-#include "orgasmotron_icons.h"
+#include "orgasmotron2_icons.h"
 
 typedef struct {
     int mode;
